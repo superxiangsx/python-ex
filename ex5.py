@@ -1,3 +1,6 @@
+
+#print exercise and f exercise
+
 my_name = 'super xiang'
 my_age = 35  # really
 my_height = 172  # cm

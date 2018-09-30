@@ -1,3 +1,6 @@
+
+#print exercise
+
 print("Hello world!")
 print('Hello world, again!')
 print("What's your name, boy?")

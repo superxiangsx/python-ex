@@ -1,3 +1,6 @@
+
+#print exercise and {} exercise
+
 f = "{} {} {} {}"
 
 print(f.format(1, 2, 3, 4))

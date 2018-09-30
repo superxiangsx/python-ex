@@ -1,3 +1,6 @@
+
+#print exercise and .format exercise
+
 print("Mary had a little lamb.")
 print("Its fleece was white as {}.".format('snow'))
 print("And everywhere that Mary went.")

@@ -1,3 +1,6 @@
+
+#print exercise and \n exercise
+
 days = "Mon Tue Wed Thu Fri Sat Sun"
 months = "\nJan\nFeb\nMar\nApr\nMay\nJun\nJul\nAgu"
 

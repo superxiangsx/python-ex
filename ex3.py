@@ -1,3 +1,6 @@
+
+#print exercise
+
 print("I will now count my chickens:")
 print("Hens", 24 + 30 / 6)
 print("Roosters", 100 - 25 * 3 % 4)
