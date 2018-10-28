@@ -4,6 +4,8 @@ script, filename = argv
 txt = open(filename)
 
 print(f"Here's your file {filename}:")
+
+#print the file's content, and close it
 print(txt.read())
 txt.close()
 
