@@ -19,24 +19,3 @@ def jisuan(x,min_x,max_x):
 
 for i in range(1,101):
 	jisuan(i,1,100)
-
-
-
-'''
-	j = 1
-	z = 0
-	for j in range(1,101):
-		z = z + j * abs(i - j)
-	print(f"i = {i}, z = {z}")
-'''
-
-'''
-i = 1
-while i <= 100:
-	j = 1
-	z = 0
-	for j in range(1,101):
-		z = z + j * abs(i - j)
-	print(f"i = {i},j = {j}, z = {z}")
-	i = i + 1
-'''
