@@ -10,4 +10,4 @@ weight = input()
 
 name = input("What's your name?")  #input(string) string is prompt information
 
-print(f"So, you're {age} years old, {height} tall, and {weight} heavy.")
+print(f"So, your name is {name}, you're {age} years old, {height} tall, and {weight} heavy.")
